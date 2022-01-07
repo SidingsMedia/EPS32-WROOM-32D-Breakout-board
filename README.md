@@ -8,6 +8,8 @@ This project provides schematics for adaptor boards for the
 ESP21-WROOM-32D. There are no components other that the WROOM module
 included on the PCB.
 
+![3D render](ESP32-WROOM-32D-breakout.png)
+
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
 communicate the correct licence for the file. For those unfamiliar with
