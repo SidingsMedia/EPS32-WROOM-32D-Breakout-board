@@ -1,7 +1,7 @@
 <!-- 
 SPDX-FileCopyrightText: Copyright (c) 2021-2022 Sidings Media 
 
-SPDX-License-Identifier: MIT
+SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 # ESP32-WROOM-32D Breakout boards
 This project provides schematics for adaptor boards for the
